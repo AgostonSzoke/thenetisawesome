@@ -7,7 +7,8 @@ The internet is an abundant source of awesome content. Sometimes funny, sometime
 [Acquired podcast](https://www.acquired.fm/episodes)  
 [Internet History podcast](https://www.internethistorypodcast.com/)  
 [Land of the Giants podcast series](https://podcasts.voxmedia.com/show/land-of-the-giants)  
-[The Verge 2004 week](https://www.theverge.com/c/24247055/2004-tech-internet-gadgets-phones-pop-culture)  
+[The Verge 2004 week](https://www.theverge.com/c/24247055/2004-tech-internet-gadgets-phones-pop-culture)
+[ConsoleMods.org - a technical wiki for consoles and CRT monitors](https://consolemods.org/)
 ## Fun
 [The Cube Rule](https://cuberule.com/)  
 [HTTP codes with cats](https://http.cat/)  
